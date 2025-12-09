@@ -65,4 +65,5 @@ This tool compares what the market *feels* (Implied Volatility via VIX) vs. what
 
 ---
 
-*Built by [Your Name] as a Portfolio Project.*
+Built by Rowan Shelhamer as a Portfolio Project.
+
